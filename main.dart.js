@@ -44198,15 +44198,15 @@ m=A.bV(g,A.mv(A.bs(A.b([A.bs(g,new A.u(!0,g,g,g,g,g,g,B.ac,g,g,g,g,g,g,g,g,g,g,g
 l=J.O(J.O(J.O(h.d,o),f),0)
 l=A.mv(A.bs(A.b([A.bs(g,new A.u(!0,g,g,g,g,g,g,B.ac,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g),"\u610f\u5411\u4e13\u4e1a: "),A.bs(g,g,l)],s),g,g),g,g)
 k=B.d.P(B.d.P("\u7b2c\u4e8c\u5fd7\u613f: ",J.O(J.O(J.O(h.d,o),f),1))+"\n\u7b2c\u4e09\u5fd7\u613f: ",J.O(J.O(J.O(h.d,o),f),2))
-k=A.bV(g,A.AN(l,A.cF(0,1),k),B.m,g,g,g,g,g,g,g,g,g,g)
+k=A.bV(g,A.AN(l,A.cF(0,2),k),B.m,g,g,g,g,g,g,g,g,g,g)
 l=J.O(J.O(J.O(h.d,o),e),0)
 l=A.mv(A.bs(A.b([A.bs(g,new A.u(!0,g,g,g,g,g,g,B.ac,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g),"\u610f\u5411\u5b66\u6821: "),A.bs(g,g,l)],s),g,g),g,g)
 j=J.dn(J.dn(J.O(J.O(J.O(h.d,o),e),1),"\n"),J.O(J.O(J.O(h.d,o),e),2))
-j=A.bV(g,A.AN(l,A.cF(0,1),j),B.m,g,g,g,g,g,g,g,g,g,g)
+j=A.bV(g,A.AN(l,A.cF(0,2),j),B.m,g,g,g,g,g,g,g,g,g,g)
 l=J.O(J.O(J.O(h.d,o),d),0)
 l=A.mv(A.bs(A.b([A.bs(g,new A.u(!0,g,g,g,g,g,g,B.ac,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g),"\u8ba1\u5212\u4e13\u4e1a: "),A.bs(g,g,l)],s),g,g),g,g)
 i=J.dn(J.dn(J.O(J.O(J.O(h.d,o),d),1),"\n"),J.O(J.O(J.O(h.d,o),d),2))
-c.push(new A.wN(new A.afg(h,o,a),A.jb(A.b([new A.fl(q,g,g,g),new A.qA(1,B.fv,A.iM(A.b([n,new A.fl(g,10,g,g),m,new A.fl(g,10,g,g),k,new A.fl(g,10,g,g),j,new A.fl(g,10,g,g),A.bV(g,A.AN(l,A.cF(0,1),i),B.m,g,g,g,g,g,g,g,g,g,g),new A.fl(g,10,g,g)],r),B.d2,B.a7,B.aw),g),new A.fl(q,g,g,g)],r),B.d2,B.a7,B.aw),p[o]))}return A.bV(g,A.zW(new A.wO(c,new A.afh(h),g),g),B.m,g,g,g,g,g,g,g,g,g,g)},
+c.push(new A.wN(new A.afg(h,o,a),A.jb(A.b([new A.fl(q,g,g,g),new A.qA(1,B.fv,A.iM(A.b([n,new A.fl(g,10,g,g),m,new A.fl(g,10,g,g),k,new A.fl(g,10,g,g),j,new A.fl(g,10,g,g),A.bV(g,A.AN(l,A.cF(0,2),i),B.m,g,g,g,g,g,g,g,g,g,g),new A.fl(g,10,g,g)],r),B.d2,B.a7,B.aw),g),new A.fl(q,g,g,g)],r),B.d2,B.a7,B.aw),p[o]))}return A.bV(g,A.zW(new A.wO(c,new A.afh(h),g),g),B.m,g,g,g,g,g,g,g,g,g,g)},
 L(a){var s,r,q=this,p=null,o=t.w,n=A.bB(a,p,o).w.a.a,m=A.bB(a,p,o).w.a.b
 o=n*0.05
 s=n*0.9
@@ -44404,7 +44404,7 @@ n=J.cR(J.O(J.O(i.d,h),"physics"))
 m=J.cR(J.O(J.O(i.d,h),"chemistry"))
 l=J.cR(J.O(J.O(i.d,h),"minor"))
 k=this.c
-return new A.r3(A.jb(A.b([g,s,A.AN(r,A.cF(0,1),"\u8bed\u6587: "+q+"\n\u6570\u5b66: "+p+"\n\u82f1\u8bed: "+o+"\n\u7269\u7406: "+n+"\n\u5316\u5b66: "+m+"\n\u9009\u4fee: "+l),A.bc(j,j,k*0.05),i.a0H(k,h)],t.p),B.aD,B.a7,B.aw),j)},
+return new A.r3(A.jb(A.b([g,s,A.AN(r,A.cF(0,2),"\u8bed\u6587: "+q+"\n\u6570\u5b66: "+p+"\n\u82f1\u8bed: "+o+"\n\u7269\u7406: "+n+"\n\u5316\u5b66: "+m+"\n\u9009\u4fee: "+l),A.bc(j,j,k*0.05),i.a0H(k,h)],t.p),B.aD,B.a7,B.aw),j)},
 $S:328}
 A.oh.prototype={
 L(a){var s=null,r=A.ph(s,"FiraCode",s),q=A.br("\u4e2d\u56fd\u79d1\u5927\u5929\u6d25\u8003\u751f\u4fe1\u606f\u7cfb\u7edf",s,s,s,A.cX(s,s,B.k,s,s,s,s,s,s,s,s,s,s,s,B.ac,s,s,!0,s,s,s,s,s,s,s,s),s,s)
