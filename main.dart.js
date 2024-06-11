@@ -27093,7 +27093,6 @@ n=B.m5.gH3().cc(o)
 m=document.createElement("a")
 m.href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,"+n
 m.setAttribute("download","\u8003\u751f\u4fe1\u606f.xlsx")
-m.click()
 m.click()},
 awh(a,b){return(B.bP[(a^b)&255]^a>>>8)>>>0},
 aCz(a,b){var s,r,q=a.length
