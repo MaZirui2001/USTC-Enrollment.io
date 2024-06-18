@@ -47460,7 +47460,7 @@ N(a){var s,r,q,p,o,n,m=this,l=null,k="[0-9]*",j="[0-9.]*",i="intended_major_ids"
 h=g*0.05
 s=A.au(l,l,h)
 r=g*0.9
-q=A.a0(38,255,255,255)
+q=A.a0(B.d.aG(25.5),255,255,255)
 p=m.Q
 o=m.f
 n=t.p
@@ -96255,7 +96255,7 @@ B.u9=new A.j(0,4)
 B.AY=new A.bs(0.5,B.G,B.CI,B.u9,10)
 B.Ij=A.b(s([B.AY]),t.E)
 B.AP=new A.dS(null,null,null,B.m1,B.Ij,null,B.aO)
-B.AQ=new A.J3(2,"cover")
+B.AQ=new A.J3(3,"fitWidth")
 B.AR=new A.J3(6,"scaleDown")
 B.c1=new A.J4(0,"tight")
 B.m5=new A.J4(5,"strut")
